@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animation_files">
+        <item>@drawable/animation_bicycles</item>
+        <item>@drawable/animation_crunches</item>
+        <item>@drawable/animation_high_knees</item>
+        <item>@drawable/animation_jump_jacks</item>
+        <item>@drawable/animation_lunges</item>
+        <item>@drawable/animation_planks</item>
+        <item>@drawable/animation_push_ups</item>
+        <item>@drawable/animation_sit_ups</item>
+        <item>@drawable/animation_squats</item>
+        <item>@drawable/animation_toe_touches</item>
+    </string-array>
+</resources>

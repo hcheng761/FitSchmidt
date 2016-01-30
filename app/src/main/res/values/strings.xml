@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FitSchmidt</string>
+
+    <!-- MAIN STRINGS -->
+    <string name="key1">A=Bicycles\nB=Crunches\nC=High Knees\nD=Jumping Jacks\nE=Lunges</string>
+    <string name="key2">F=Planks\nG=Push Ups\nH=Sit Ups\nI=Squats\nJ=Toe Touches</string>
+    <string name="button_start">Start</string>
+
+    <!-- RANDOMIZER STRINGS -->
+    <string name="button_accept">Accept</string>
+    <string name="button_regenerate">Regenerate</string>
+
+    <!-- COUNTDOWN STRINGS -->
+    <string name="button_give_up">Give Up</string>
+
+    <!-- MESSAGE STRINGS -->
+
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<exercises>
+
+    <exercise>
+        <name>Bicycles</name>
+        <id>0</id>
+        <time>0</time>
+        <frequency>0</frequency>
+    </exercise>
+
+    <exercise>
+        <name>Crunches</name>
+        <id>1</id>
+        <time>0</time>
+        <frequency>0</frequency>
+    </exercise>
+    
+	<exercise>
+        <name>High Knees</name>
+        <id>2</id>
+        <time>0</time>
+        <frequency>0</frequency>
+    </exercise>
+
+    <exercise>
+        <name>Jumping Jacks</name>
+        <id>3</id>
+        <time>0</time>
+        <frequency>0</frequency>
+    </exercise>
+
+    <exercise>
+        <name>Lunges</name>
+        <id>4</id>
+        <time>0</time>
+        <frequency>0</frequency>
+    </exercise>
+
+    <exercise>
+        <name>Planks</name>
+        <id>5</id>
+        <time>0</time>
+        <frequency>0</frequency>
+    </exercise>
+
+    <exercise>
+        <name>Push Ups</name>
+        <id>6</id>
+        <time>0</time>
+        <frequency>0</frequency>
+    </exercise>
+
+    <exercise>
+        <name>Sit Ups</name>
+        <id>7</id>
+        <time>0</time>
+        <frequency>0</frequency>
+    </exercise>
+
+    <exercise>
+        <name>Squats</name>
+        <id>8</id>
+        <time>0</time>
+        <frequency>0</frequency>
+    </exercise>
+
+    <exercise>
+        <name>Toe Touches</name>
+        <id>9</id>
+        <time>0</time>
+        <frequency>0</frequency>
+    </exercise>
+</exercises>
